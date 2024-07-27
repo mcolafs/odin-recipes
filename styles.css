@@ -1,0 +1,37 @@
+body {
+    background-color: bisque;
+    margin: 0;
+    font-family: Poppins;
+}
+h1 {
+    text-align: center;
+}
+div {
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+img {
+    width: 500px;
+    height: auto;
+}
+
+.hdlasagna, .hdpancakes {
+text-align: center;
+}
+h4 {
+    font-weight: bold;
+    text-align: center;
+    font-style: underline;
+    border: solid;
+}
+.hdsteps {
+    text-align: center;
+    font-weight: bolder;
+    
+}
+ul {
+    list-style: none;
+    text-align: center;
+    
+}
