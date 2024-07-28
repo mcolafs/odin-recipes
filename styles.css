@@ -2,6 +2,7 @@ body {
     background-color: bisque;
     margin: 0;
     font-family: Poppins;
+    box-sizing: border-box;
 }
 h1 {
     text-align: center;
@@ -16,18 +17,19 @@ img {
     height: auto;
 }
 
-.hdlasagna, .hdpancakes {
+.hdlasagna, .hdpancakes, .hdcoconutsoup {
 text-align: center;
 }
 h4 {
     font-weight: bold;
     text-align: center;
     font-style: underline;
-    border: solid;
+    
 }
 .hdsteps {
     text-align: center;
     font-weight: bolder;
+    margin: auto;
     
 }
 ul {
@@ -35,3 +37,28 @@ ul {
     text-align: center;
     
 }
+ol {
+    margin: 10px;
+    padding: 10px;  
+}
+.food {
+    margin: 10px;
+}
+footer {
+    width: 100%;
+    height: 3rem;
+    background-color:darkgrey;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    
+    
+}
+
+    
+
+
+    
+
+    
